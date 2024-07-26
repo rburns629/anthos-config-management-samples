@@ -1,8 +1,0 @@
-apiVersion: v1
-kind: Namespace
-metadata:
-  name: team-10
-  labels:
-    name: team-10
-    group_id: 8853dcfc-4667-47fb-8c95-fc535f0bf974
-    group_name: hello_world
