@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: team-12
+  labels:
+    name: team-12
+    group_id: 8853dcfc-4667-47fb-8c95-fc535f0bf974
+    group_name: group_name
