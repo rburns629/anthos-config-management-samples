@@ -1,0 +1,9 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: oct-hello-again-world-dev
+  labels:
+    name: oct-hello-again-world-dev
+    group_id: 00meukdy4fxauy2
+    cloud_id: 5833a235-9b99-4475-bb73-c7cbaadf36de
+    group_name: orbitcloudtest-group
